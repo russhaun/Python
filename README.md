@@ -1,1 +1,1 @@
-Python
+this repo will be for holding scripts related to python mainly for Windows but also some for *nix platforms. they will be changing often but will be left here for all to access. some are very crude others not. if you like something let me know.
